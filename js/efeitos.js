@@ -31,5 +31,26 @@
 		 
 		  	});
 
+
+		  	var owl = $(".thumbnails").data('owlCarousel');
+
+		  	$('#btn-news-prev').on("click",function(){
+
+		  		owl.prev();
+
+
+		  	});
+
+
+		  	var owl = $(".thumbnails").data('owlCarousel');
+
+		  	$('#btn-news-next').on("click",function(){
+
+		  		owl.next();
+
+
+		  	});
+
+
 		});
 		
