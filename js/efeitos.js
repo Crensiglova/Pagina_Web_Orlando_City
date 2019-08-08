@@ -78,13 +78,15 @@
 
 		  	});
 
-		$("#btn-search").on("click",function(){
-
-			$("header").toggleClass("open-search");
-		  	$("#input-search-mobile").focus();
-
-
-		});  	
+		$("#btn-search").on("click", function(){
+ 
+        $("header").toggleClass("open-search");
+ 
+    	}).on("click", function(){
+ 
+        $("#logotipo").toggleClass("efect");
+ 
+    }); 
 		  	
 
 

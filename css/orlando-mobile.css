@@ -408,4 +408,9 @@
 		z-index: 9;
 	}
 
+	 header #logotipo.efect {         
+	 	margin-top: 24px;
+	 	transition: 1s;
+	} 	
+
 }
