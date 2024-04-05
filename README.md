@@ -1,4 +1,3 @@
 # WEB
-Meu projeto WEB
+Projeto WEB para estudo de Front end.
 
-Projeto web , curso udemy 2019. Estudo de programação HTML,CSS,Javascript
